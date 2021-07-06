@@ -1,0 +1,27 @@
+{
+  "bookmarks": [{
+    "id" : 1,
+    "name": "facebook",
+    "link": "www.facebook.com",
+    "tags": ["trend", "social"]
+  },
+  {
+    "id" : 2,
+    "name": "instagram",
+    "link": "www.instagram.com",
+    "tags": ["picture", "image"]
+  },
+  {
+    "id" : 3,
+    "name": "twitter",
+    "link": "www.twitter.com",
+    "tags": ["tweet", "like"]
+  },
+  {
+    "id" : 4,
+    "name": "snapchat",
+    "link": "www.snapchat.com",
+    "tags": ["snaps", "story"]
+  }
+]
+}

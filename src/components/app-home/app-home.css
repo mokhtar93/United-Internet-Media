@@ -1,0 +1,34 @@
+.app-home {
+  padding: 10px;
+}
+
+.bookmarks {
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-top: 3rem;
+}
+
+.bookmarks--search {
+  height: 25px;
+  width: 200px;
+  border-radius: 25px;
+  border: 1px solid black;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+.bookmarks--search:focus-visible {
+  outline: none;
+
+}
+
+.bookmarks--container {
+  display: grid;
+  grid-template-columns: 70% 25%;
+}
+
+@media only screen and (max-width: 900px) {
+  .bookmarks--container {
+    grid-template-columns: 100%;
+  }
+}

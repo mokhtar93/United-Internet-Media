@@ -1,0 +1,15 @@
+.bookmarks--wrapper {
+  column-gap: 10px;
+  row-gap: 15px;
+  display: grid;
+  margin-top: 1rem;
+
+}
+.bookmarks--row{
+  grid-template-rows: 50px;
+  grid-template-columns: 33% 33% 33%;
+  display: grid;
+}
+.bookmarks--title {
+  font-weight: 700;
+}
