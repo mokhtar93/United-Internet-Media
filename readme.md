@@ -39,3 +39,10 @@ To run the unit tests and watch for file changes during development, run:
 ```
 npm run test.watch
 ```
+
+To run the http server, run:
+
+```
+json-server --watch db.json
+```
+
